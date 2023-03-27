@@ -9,9 +9,9 @@ import random
 def read_follow():
 
     #ユーザーネーム
-    username="camcolle_koyo"   #ここは自分のInstagramのIDを入れてください 例 username="camcolle_akita"　こんな感じで「" "」の間に書いてください！
+    username=""   #ここは自分のInstagramのIDを入れてください 例 username=""　こんな感じで「" "」の間に書いてください！
     #パスワード
-    password="Koyo0526"   #ここは自分のInstagramのパスワードを入れてください！ 例 password="aktia21" こんな感じでIDと同じように「" "」の間に書いてください！
+    password=""   #ここは自分のInstagramのパスワードを入れてください！ 例 password="" こんな感じでIDと同じように「" "」の間に書いてください！
 
 
 
