@@ -1,1 +1,2 @@
 # Instagram_Developing
+このプログラムはscrapingを利用したInstagramのフォロワー情報収集システムです。
