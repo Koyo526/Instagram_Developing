@@ -21,9 +21,9 @@ def login_instagram():
     # url
     url = "https://www.instagram.com/"
     #ユーザーネーム
-    username="camcolle_koyo"
+    username=""
     #パスワード
-    password="Koyo0526"
+    password=""
     #ハッシュタグ検索
     tagu=""
     # ブラウザーを起動
